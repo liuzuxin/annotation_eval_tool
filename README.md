@@ -3,8 +3,11 @@
 Evaluation code for smart-annotation tool
 
 ## Dependencies
+* [bbox](https://pypi.org/project/bbox/)
 ```
-[bbox](https://pypi.org/project/bbox/), pip install bbox
+pip install bbox
+```
+```
 numpy, json, re, pandas, matplotlib
 ```
 
